@@ -1,7 +1,9 @@
 ReversePolish
 =============
 
-Getting attuned to JAVA by writing infix to postfix converter
+Getting attuned to JAVA by writing infix to postfix converter.
+
+---------- PROMPT ----------
 
 
 Reverse Polish Notation (RPN) <http://en.wikipedia.org/wiki/Reverse_Polish_notation> is a mathematical notation where every operator follows all of its operands. For instance, to add three and four, one would write "3 4 +" rather than "3 + 4". If there are multiple operations, the operator is given immediately after its second operand; so the expression written "3 − 4 + 5" would be written "3 4 − 5 +" first subtract 4 from 3, then add 5 to that.
